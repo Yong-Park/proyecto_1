@@ -1,6 +1,12 @@
-import React from "react";
-import { Component } from "react";
-import "./Bar.sass";
+/* eslint-disable linebreak-style */
+/* eslint-disable react/button-has-type */
+/* eslint-disable react/jsx-filename-extension */
+/* eslint-disable react/prefer-stateless-function */
+/* eslint-disable linebreak-style */
+/* eslint-disable import/no-duplicates */
+import React from 'react';
+import { Component } from 'react';
+import './Bar.sass';
 
 export default class Bar extends Component {
   render() {
@@ -12,7 +18,7 @@ export default class Bar extends Component {
           <div className="BanList-text">
             Banlist:
             <div className="BanList-type">
-              <option value ="0" className="Banlist-type1">2022.02 TCG</option>
+              <option value="0" className="Banlist-type1">2022.02 TCG</option>
             </div>
           </div>
           <div className="buttons">

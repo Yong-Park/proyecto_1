@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 /* eslint-disable react/button-has-type */
 /* eslint-disable jsx-a11y/no-static-element-interactions */
 /* eslint-disable jsx-a11y/click-events-have-key-events */
@@ -10,6 +9,7 @@
 /* eslint-disable no-trailing-spaces */
 /* eslint-disable camelcase */
 /* eslint-disable linebreak-style */
+/* eslint linebreak-style: ["error", "windows"] */
 import React, { useState } from 'react';
 import './Body.sass';
 

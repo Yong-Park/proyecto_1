@@ -49,3 +49,9 @@ npm i --save-dev @babel/core @babel/cli @babel/eslint-parser @babel/preset-env @
 ## Resultado Final
 Con el uso de todas las tecnologias al final quedo de la siguiente forma
 ![image](./src/assets/final.png)
+
+## Como correrlo
+Asegurar estar dentro de la carpeta de PROYECTO_1, luego escribir en la terminal
+```bash
+npm run start
+```

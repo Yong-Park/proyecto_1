@@ -55,3 +55,4 @@ Asegurar estar dentro de la carpeta de PROYECTO_1, luego escribir en la terminal
 ```bash
 npm run start
 ```
+O ingresar a la pagina web de [Juan el Caballo](http://juanelcaballo.club/20117/projecto_1/)
